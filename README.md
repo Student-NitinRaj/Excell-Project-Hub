@@ -21,3 +21,5 @@ Overall Insights
 * The gender gap is most pronounced in Clothing and Accessories, suggesting opportunities to grow female spending in these categories through targeted marketing or assortment adjustments.
 
 * Footwear and Outerwear show smaller absolute totals but follow the same pattern of higher male spend, indicating a consistent gender-based spending difference across product types.
+
+--> Also full makeing Sheet with dashboard you can download and make project and Understand Easily.
