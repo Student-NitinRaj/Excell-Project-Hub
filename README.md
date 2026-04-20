@@ -33,6 +33,7 @@ screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/2_
 
 # 3.) Blinkit Grosery data Analysis
 screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/3_Blinkitgrosery%202025-04-27%20214004.png
+
 dataset link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/3_BlinkIT%20Grocery%20Data%20(1).xlsx
 
 # 4.) Bike Sales Analysis
@@ -43,11 +44,13 @@ screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/5_
 
 # 8.) Movie meta data Analysis
 screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Movie%20Meta%20data.png
+
 dataset link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/movie_metadata.csv
 
 # 9.) Lamborghini Sales Analysis (2022 - 2025)
 
 Screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Lamborghini.png
+
 Full Project with dataseylink:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Lamborghini%20project.csv
 
 # 10.) Vrinda Store Sales Analysis (2022)
