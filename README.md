@@ -28,6 +28,9 @@ Overall Insights
 Documention link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/1_Excell_Dashboard.md
 screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/1_Hospital2025-02-18%20194303.png
 
+# 2.) Taj Hottel Booking Analysis
+screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/2_TajHottel2025-04-26%20122044.png
+
 # 3.) Blinkit Grosery data Analysis
 screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/3_Blinkitgrosery%202025-04-27%20214004.png
 dataset link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/3_BlinkIT%20Grocery%20Data%20(1).xlsx
@@ -38,7 +41,7 @@ Screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/4_
 # 5.) Customer Shoping behaviour using (Ai)
 screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/5_Average%20Purchase%20Amount%20by%20Gender.pdf
 
-#8.) Movie meta data Analysis
+# 8.) Movie meta data Analysis
 screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Movie%20Meta%20data.png
 dataset link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/movie_metadata.csv
 
