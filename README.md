@@ -24,7 +24,30 @@ Overall Insights
 
 --> Also full makeing Sheet with dashboard you can download and make project and Understand Easily.
 
-# Vrinda Store Sales Analysis (2022)
+# 1.) Revolutionizing Hospital Emergency Room Analytics with Interactive Dashboards
+Documention link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/1_Excell_Dashboard.md
+screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/1_Hospital2025-02-18%20194303.png
+
+# 3.) Blinkit Grosery data Analysis
+screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/3_Blinkitgrosery%202025-04-27%20214004.png
+dataset link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/3_BlinkIT%20Grocery%20Data%20(1).xlsx
+
+# 4.) Bike Sales Analysis
+Screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/4_Bike%20Sales%20Dashboard%202025-08-28%20165353.png
+
+# 5.) Customer Shoping behaviour using (Ai)
+screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/5_Average%20Purchase%20Amount%20by%20Gender.pdf
+
+#8.) Movie meta data Analysis
+screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Movie%20Meta%20data.png
+dataset link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/movie_metadata.csv
+
+# 9.) Lamborghini Sales Analysis (2022 - 2025)
+
+Screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Lamborghini.png
+Full Project with dataseylink:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Lamborghini%20project.csv
+
+# 10.) Vrinda Store Sales Analysis (2022)
 
 ## Overview
 
@@ -39,6 +62,9 @@ The analysis focuses on customer behavior, sales channels, geographic trends, an
 * Excel (Data Cleaning & Dashboard)
 * Pivot Tables
 * Data Visualization
+
+* Dashboard Screenshot:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Store.png
+* Full Project with dataset link:- https://github.com/Student-NitinRaj/Excell-Project-Hub/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
 
 ---
 
